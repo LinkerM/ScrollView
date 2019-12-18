@@ -1,0 +1,28 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.17)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture (= 1.1)
+  - Masonry (= 1.0.2)
+  - MJExtension (~> 3.0.13)
+  - YYText
+
+SPEC REPOS:
+  trunk:
+    - FDFullscreenPopGesture
+    - Masonry
+    - MJExtension
+    - YYText
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 74ec83124a68891619fb7ba9c5c811bbf1691076
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: a3b991696a486a0aa6c3b4ff422c09a71a5b5754
+
+COCOAPODS: 1.8.3

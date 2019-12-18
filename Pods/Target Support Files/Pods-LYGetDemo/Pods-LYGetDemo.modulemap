@@ -1,0 +1,6 @@
+framework module Pods_LYGetDemo {
+  umbrella header "Pods-LYGetDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
